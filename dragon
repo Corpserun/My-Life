@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+    <head>
+    <meta charset="utf=8">
+    <title>My Life</title>
+    <link rel="stylesheet" href="CSS/normalize.css">
+    <link rel="stylesheet" href="CSS/Main.css">
+    </head>
+
+<body>
+    <h1>Dragon</h1>
+    <a href="Index.html">
+        <img src="IMG/Smaug.jpg" height="55%"  width="60%">
+    </a>
+    <p> A dragon would be an awesome idea for a pet if <a href="Lady.html">Lady</a> and I didn't already have <a href="Baby.html">Baby</a>.
