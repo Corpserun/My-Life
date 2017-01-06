@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+    <head>
+    <meta charset="utf=8">
+    <title>My Life</title>
+    <link rel="stylesheet" href="CSS/normalize.css">
+    <link rel="stylesheet" href="CSS/Main.css">
+    </head>
+<Body>
+    <h1>Baby</h1>
+    <a href="Index.html">
+        <img src="IMG/Puppy.jpg" height="55%" width="60%">
+    </a>
+    <p> I have a baby. This baby is fluffy and much bigger than the one pictured. Baby is part of the family, along with my <a href="Lady.html">Lady</a>. We wouldn't trade her in, even for a <a href="Dragon.html">Dragon</a>.
+    </p>
+</Body>
+</html>
+
+
