@@ -14,7 +14,19 @@
     </a>
     <p> I have a baby. This baby is fluffy and much bigger than the one pictured. Baby is part of the family, along with my <a href="Lady.html">Lady</a>. We wouldn't trade her in, even for a <a href="Dragon.html">Dragon</a>.
     </p>
+    <div id="column">
+        <div id="First">
+            <h2>Type of Baby</h2>
+                <p>Maizie is actually a Great Pyreneese/Saint Bernard mix. Her build is dense and low to the ground, clearing 120 pound and standing only an inch or two taller than her 60 and 70 pound sisters</p>
+        </div>
+        <div id="Second">
+            <h2>Testing</h2>
+                <p>Testing Css. Check 1, 2, 3.</p>
+        </div>
+        <div id="Third">
+            <h2>More Testing</h2>
+            <p> More stuff. More testing. Want to plaaaay</p>
+        </div>
+    </div>
 </Body>
 </html>
-
-
